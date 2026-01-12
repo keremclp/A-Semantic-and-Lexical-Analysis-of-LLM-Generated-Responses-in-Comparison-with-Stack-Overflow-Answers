@@ -52,7 +52,7 @@ All code in this repository (e.g., data collection and cleaning scripts) is rele
 
 If you use this dataset in academic work, please cite the accompanying paper:
 
-> Çelepkolu, K. C., & Ortakçı, Y. (202X). *A Semantic and Lexical Analysis of LLM-Generated Responses in Comparison with Stack Overflow Answers*.
+> Çelepkolu, K. C., & Ortakçı, Y. (2026). *A Semantic and Lexical Analysis of LLM-Generated Responses in Comparison with Stack Overflow Answers*.
 
 You may also optionally reference this repository:
 
